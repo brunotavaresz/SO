@@ -1,0 +1,1 @@
+receptionist: semaphore.c:117: semDown: Assertion `sindex>0' failed.
